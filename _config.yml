@@ -1,35 +1,33 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+#baseurl: "/Type-on-Strap"
+#url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
-  avatar: assets/img/triangle.svg
+  title: Samuel Fajreldines
+  avatar: assets/img/photo.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Um blog sobre carreira, tecnologia, esportes e motivação." # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+     <p>Um blog sobre carreira, tecnologia, esportes e motivação.</p>
+  header_text_feature_image: assets/img/pexels/surfer.jpg
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: samuelfaj@icloud.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: samuel.fajreldines
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "samuelfaj"
   google_plus:
-  instagram:
+  instagram: samuelfajreldines
   keybase:
   linkedin:  # Full URL
   pinterest:
@@ -47,20 +45,20 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  portfolio: true
+  portfolio: false
   search: true
-  tags: true
+  tags: false
   
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on: "Siga"
+  str_rss_follow: "Siga o RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next_post: "Próximo Post"
+  str_previous_post: "Post Anterior"
+  str_next_page: "Próx"
+  str_previous_page: "Ant"
+  str_continue_reading: "Continue lendo"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
   # Colours, typography and padding
@@ -68,7 +66,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: true
+  post_navigation: false
 
 # PAGINATION
 paginate: 5
@@ -78,7 +76,7 @@ paginate_path: "blog/page:num"
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:name
+    permalink: /:categories/:name
 
 # BUILD SETTINGS
 markdown: kramdown

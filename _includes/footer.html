@@ -1,13 +1,18 @@
-{% if site.theme_settings.footer_text %}
-<footer class="site-footer">
-    <p class="text">{{ site.theme_settings.footer_text }}</p>
-            <div class="footer-icons">
-                <ul>
+<footer class="site-footer" style="background-image: url(/assets/img/pexels/wolf.jpg);background-size: cover;background-position: center bottom;">
+    <div id="footer-overlay" style="background-color: rgba(0,0,0,0.4);">
+    <img id="footer-img" src="/assets/img/photofooter.png">
+        <p class="text">
+            Eu sou o Samuel.<br>
+            Seja bem-vindo ao meu blog.<br>
+            Se eu conseguir lhe proporcionar um pouquinho de conhecimento, felicidade ou um só sorriso, meu trabalho valeu muito a pena. <br>
+            #boaJornada #compartilheAlegrias <br>
+            <a href="/sobre/">Leia mais</a>
+        </p>
+        <div class="footer-icons" style="text-align: center">
+            <ul>
                 <!-- Social icons from Font Awesome, if enabled -->
                 {% include icons.html %}
-                </ul>
-            </div>
+            </ul>
+        </div>
+    </div>
 </footer>
-{% endif %}
-
-

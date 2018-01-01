@@ -3,7 +3,7 @@
     <!-- Logo and title -->
 	<div class="branding">
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
+			<img class="avatar" style="border-radius: 50% !important;" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 
 		<h1 class="site-title">
@@ -27,7 +27,7 @@
             </a>
         </li>
         {% endif %}
-        {% endfor %} 
+        {% endfor %}
         {% if site.theme_settings.portfolio %}
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/portfolio">
@@ -37,7 +37,7 @@
         {% endif %}
         {% if site.theme_settings.search %}
         <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
+            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/procurar">
                 <i class="fa fa-search" aria-hidden="true"></i>
             </a>
         </li>
@@ -49,7 +49,7 @@
             </a>
         </li>
         {% endif %}
-        
+
     </ul>
         
 	</nav>
