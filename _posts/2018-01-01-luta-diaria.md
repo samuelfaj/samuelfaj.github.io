@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luta Diária
+title: Motivação - Luta Diária
 feature-img: "assets/img/posts/lutadiaria.jpg"
 thumbnail: "assets/img/posts/lutadiaria.jpg"
 tags: [Motivação, Luta, Diária]
