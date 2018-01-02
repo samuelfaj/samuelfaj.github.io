@@ -9,7 +9,10 @@ layout: default
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
-  <section class="post-content">{{ content }}</section>
+  <section class="post-content">
+    {{ content }}
+    <p style="text-align: right"> <i>- Samuel Fajreldines</i></p><br>
+  </section>
    
    <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
