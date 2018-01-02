@@ -5,7 +5,7 @@
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Samuel Fajreldines
+  title: "Samuel Fajreldines"
   avatar: assets/img/photo.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
