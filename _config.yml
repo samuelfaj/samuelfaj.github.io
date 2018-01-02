@@ -68,6 +68,12 @@ theme_settings:
   # Post navigation
   post_navigation: false
 
+title: "Samuel Fajreldines"
+avatar: assets/img/photo.jpg
+favicon: assets/favicon.ico
+gravatar: # Email MD5 hash
+description: "Um blog sobre carreira, tecnologia, esportes e motivação." # used by search engines
+
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
