@@ -13,7 +13,7 @@ Crescendo me especializei na área de sistemas de informação. Área na qual me
 
 Também sou apaixonado pela vida e por esportes, um verdadeiro lifeaholic. Amo festas, viajar, viver novas experiências e fazer novos amigos.
  
-Quando me perguntam o que eu quero da vida a minha resposta é sempre a mesma. Eu quero tudo. **Eu quero tudo o que a vida tem a me oferecer** e acho que para vivermos o verdadeiro sucesso ele deve ser completo, em todos os pilares da vida. No ambiente profissional, familicar e social.
+Quando me perguntam o que eu quero da vida a minha resposta é sempre a mesma. Eu quero tudo. **Eu quero tudo o que a vida tem a me oferecer** e acho que para vivermos o verdadeiro sucesso ele deve ser completo, em todos os pilares da vida. No ambiente profissional, familiar e social.
 
 Por essa jornada ser tão dificil, criei esse blog. Para que eu possa aprender cada vez mais e para que possa compartilhar minhas experiências (sejam fracassos ou sucessos) com todos que, como eu, buscam o sucesso completo.
 
