@@ -70,6 +70,6 @@ Hoje vejo minha profissão não mais como lógica e roteirizada. Penso nela como
 
 **Para pensar...**
 
-* Você está pensando em solucionar algo ou só decorando? 
+* Estou pensando em solucionar algo ou só decorando? 
 * Como posso deixar meu negócio mais inteligente? 
 * Que informações tenho e como posso aprender com elas?
