@@ -70,6 +70,18 @@ header {
     .post-content {
         @extend %padding-regular;
         padding-bottom: 0;
+        text-align: justify;
+    }
+    .post-content p {
+        text-indent: 1.5em;
+    }
+    .post-content ul {
+        text-indent: 3.5em;
+    }
+    p.center-hlg{
+        text-align: center;
+        background-color: #efefef;
+        padding: 5px;
     }
     footer {
         @extend %padding-regular;
