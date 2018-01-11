@@ -31,7 +31,7 @@ Da mesma forma como você não conhece todas as raças de cachorro existentes ma
 
 No exemplo em que vimos o caminhão seria a informação. Mas e o conhecimento? **O conhecimento seria o conjunto de raciocínios que tiramos a partir do conjunto de informações que aprendemos, ou seja, quando aplicamos informação à um contexto.**
 
-![Knowledge is power](/assets/img/posts/knowledge_power.gif "Knowledge is power") 
+![Knowledge is power](https://samuelfaj.github.io/blog/assets/img/posts/knowledge_power.gif "Knowledge is power") 
 
 Temos a ciência do que é um caminhão e uma motocicleta. Aprendemos a informação caminhão e a informação motocicleta. Então imagine que temos que resolver um problema. Temos que fazer o transporte de uma carga do ponto A ou ponto B. 
 
@@ -43,7 +43,7 @@ Formamos uma informação. <small>O conceito da coisa.</small><br>
 Botando a mão na massa, geramos conhecimento. <small>Conclusões sobre a coisa.</small><br> 
 </p>
 
-![Knowledge is power](/assets/img/posts/datavsinfo.png "Knowledge is power")
+![Knowledge is power](https://samuelfaj.github.io/blog/assets/img/posts/datavsinfo.png "Knowledge is power")
 
 **Seguindo esse raciocínio, trazendo agora para o mundo da TI...**
 
