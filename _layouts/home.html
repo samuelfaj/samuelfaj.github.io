@@ -8,10 +8,10 @@ layout: default
     {% assign i = 0 %}
     {% for post in paginator.posts %}
     <div class="post-teaser" data-id="{{i}}">
-      {% if post.thumbnail %} 
-      <div class="post-img">
+      {% if post.thumbnail %}
+      <!--<div class="post-img">
          <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
-      </div>
+      </div>-->
       {% endif %}
       <span>
           <header>
@@ -24,10 +24,10 @@ layout: default
               {{ post.date | date: "%B %-d, %Y" }}
             </p>
           </header>
-          <div class="excerpt">
+          <div class="excerpt" style="text-align: justify">
             {{ post.content | strip_html | truncate: "250" }}
             <p></p>
-            <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            <a class="button" style="width: 100%;text-align: center" href="{{ post.url | prepend: site.baseurl }}">
               {{ site.theme_settings.str_continue_reading }}
             </a>
           </div>
