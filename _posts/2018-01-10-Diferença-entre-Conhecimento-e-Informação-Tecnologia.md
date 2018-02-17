@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TI - A Diferença Entre Data, Informação e Conhecimento.
+title: TI - A Diferença Entre Data, Informação e Conhecimento
 feature-img: "assets/img/posts/littlev3.jpg"
 thumbnail: "assets/img/posts/knowledge.jpg"
 tags: [TI , data, informação, conhecimento]
